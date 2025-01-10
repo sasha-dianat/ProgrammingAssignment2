@@ -1,6 +1,3 @@
-## Put comments here that give an overall description of what your
-## functions do
-
 ## This function handles making cache of input matrix and its inverse
 
 makeCacheMatrix <- function(x = matrix()) {
